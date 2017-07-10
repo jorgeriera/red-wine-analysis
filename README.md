@@ -1,2 +1,2 @@
 # red-wine-analysis
-Analysis of Red Wine Dataset
+Analysis of various features of red wines and their relationship to its quality.
